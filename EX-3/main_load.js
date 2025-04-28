@@ -1,5 +1,4 @@
 import { RaceResultsService } from "./service/RaceResultsService.js";
-import { Duration } from "./model/Duration.js";
 
 // Initialize service
 const raceResultService = new RaceResultsService();
